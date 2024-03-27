@@ -1,2 +1,2 @@
-# Data-Analyst-project_1
+# Data-Analyst-project
 Data sorting and data cleansing project on MS Excel. 
